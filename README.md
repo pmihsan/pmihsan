@@ -8,9 +8,12 @@
 
 ## Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,c,java,go,py,react,nodejs,mysql,idea,vim,vscode,&perline=7" />
+  <img src="https://skillicons.dev/icons?i=bash,c,java,py,go,react,nodejs,mysql,idea,vim,vscode,&perline=7" />
 </p>
 
+## Github Stats
+<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=pmihsan&theme=tokyonight" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmihsan&theme=tokyonight&hide=lex,yacc&layout=compact&langs_count=5&card_width=320" />
 
 ## Interested in
 <p align="center">
@@ -19,7 +22,8 @@
 
 <!--
 ## Github stats
-![](https://github-readme-stats.vercel.app/api?username=pmihsan)
+![Stats](https://github-readme-stats.vercel.app/api?username=pmihsan)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pmihsan&theme=tokyonight&hide=lex,yacc&langs_count=3)
 
 
 **pmihsan/pmihsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
