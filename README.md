@@ -12,8 +12,10 @@
 </p>
 
 ## Github Stats
-<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=pmihsan&theme=tokyonight" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pmihsan&theme=tokyonight&hide=lex,yacc&layout=compact&langs_count=5&card_width=320" />
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pmihsan&theme=tokyonight" alt="Stats" style="height:200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pmihsan&theme=tokyonight&hide=lex,yacc&layout=compact&langs_count=5&card_width=320" alt="Languages" style="height:200px;">
+</div>
 
 ## Interested in
 <p align="center">
