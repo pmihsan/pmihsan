@@ -11,11 +11,13 @@
   <img src="https://skillicons.dev/icons?i=bash,c,java,py,go,react,nodejs,mysql,idea,vim,vscode,&perline=7" />
 </p>
 
+<!--
 ## Github Stats
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=pmihsan&theme=tokyonight" alt="Stats" style="height:200px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pmihsan&theme=tokyonight&hide=lex,yacc&layout=compact&langs_count=5&card_width=320" alt="Languages" style="height:200px;">
 </div>
+-->
 
 ## Interested in
 <p align="center">
@@ -26,8 +28,9 @@
 ## Github stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=pmihsan)
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pmihsan&theme=tokyonight&hide=lex,yacc&langs_count=3)
+-->
 
-
+<!--
 **pmihsan/pmihsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
