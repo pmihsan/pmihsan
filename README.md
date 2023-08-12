@@ -14,7 +14,7 @@
 ## Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pmihsan&theme=tokyonight&card_width=250" alt="Stats" style="height: 200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pmihsan&theme=tokyonight&hide=lex,yacc&layout=compact&langs_count=5&card_width=200" alt="Languages" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pmihsan&theme=tokyonight&hide=lex,yacc,jupyter%20notebook&layout=compact&langs_count=5&card_width=200" alt="Languages" style="height: 200px;">
 </div>
 
 <p align="center">
