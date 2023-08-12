@@ -11,13 +11,15 @@
   <img src="https://skillicons.dev/icons?i=bash,c,java,py,go,react,nodejs,mysql,idea,vim,vscode,&perline=7" />
 </p>
 
-<!--
 ## Github Stats
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pmihsan&theme=tokyonight" alt="Stats" style="height:200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pmihsan&theme=tokyonight&hide=lex,yacc&layout=compact&langs_count=5&card_width=320" alt="Languages" style="height:200px;">
-</div>
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmihsan&theme=tokyonight" alt="Stats" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pmihsan&theme=tokyonight&hide=lex,yacc&layout=compact&langs_count=5&card_width=320" alt="Languages" style="height: 200px;">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmihsan&theme=dark" alt="GitHub Streak">
+</p>
 
 ## Interested in
 <p align="center">
